@@ -1,2 +1,3 @@
-#!/bin/bash
-mkdir
+ '#!/bin/bash'>6-firstdirectory
+
+ 3,echo "mkdir /tmp/my_first_directory">>6-firstdirectory
