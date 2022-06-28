@@ -1,2 +1,2 @@
 #!/bin/bash
-excport Hello="hello user"
+export Hello="hello user" echo $Hello
