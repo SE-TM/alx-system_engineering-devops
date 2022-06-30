@@ -1,2 +1,2 @@
 #!/bin/bash
-setBEST() { echo $BEST } BEST=School 
+BEST=School 
